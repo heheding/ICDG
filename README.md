@@ -1,14 +1,14 @@
 # Complementary Representations of Invariant in Domain Generalization for Industrial Data Drift
 
-This repository contains the official implementation of **Complementary Representations of Invariant in Domain Generalization for Industrial Data Drift**, which is prepared for publication in Science China Information Sciences.
+This repository contains the official implementation of **Complementary Representations of Invariant in Domain Generalization for Industrial Data Drift**, which is prepared for publication in IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS: SYSTEMS.
 
 As the paper is still in the under review stage, I have removed the data processing. The full code will be filled in as soon as the paper is accepted.
 
 ## 🚀 Highlights
 
-1. *Novel perspective* is proposed by ICDG to enhance domain generalization from the perspective of invariant-complement representations, which is more effective than existing domain generalization methods that focus on invariant-only representations.
-2. *Theoretical insights* indicate that optimizing the objective function of ICDG is equivalent to inferring the minimal upper bound of the empirical risk for unseen domains. This is achieved by complementing invariant representations with covariant representations.
-3. *Competitive and insightful results:* Extensive quantitative and qualitative experiments conducted on the gas turbine and polyester esterification processes demonstrate the superiority of ICDG.
+1. **Novel perspective** is proposed by ICDG to enhance domain generalization from the perspective of invariant-complement representations, which is more effective than existing domain generalization methods that focus on invariant-only representations.
+2. **Theoretical insights** indicate that optimizing the objective function of ICDG is equivalent to inferring the minimal upper bound of the empirical risk for unseen domains. This is achieved by complementing invariant representations with covariant representations.
+3. **Competitive and insightful results:** Extensive quantitative and qualitative experiments conducted on the gas turbine and polyester esterification processes demonstrate the superiority of ICDG.
 
 ## 📊 Performance Comparison
 As shown in the table, ICDG outperforms the other methods in both MAE, RMSE and R²:
