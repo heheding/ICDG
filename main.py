@@ -7,9 +7,7 @@ import torch.backends.cudnn as cudnn
 import torch.optim as optim
 import torch.utils.data
 from models.build_gen import *
-from sklearn.metrics import mean_squared_error
-from sklearn.metrics import mean_absolute_error
-from sklearn.metrics import r2_score
+from sklearn.metrics import *
 import numpy as np
 from matplotlib import pyplot as plt
 from dataset.dataset_read import dataset_read
