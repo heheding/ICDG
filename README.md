@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of **Complementary Representations of Invariant in Domain Generalization for Industrial Data Drift**, which is prepared for publication in IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS: SYSTEMS.
 
-As the paper is still in the under review stage, I have removed the data processing. The full code will be filled in as soon as the paper is accepted.
+As the paper is still under review, I have removed the data processing. The full code will be filled in as soon as the paper is accepted.
 
 ## 🚀 Highlights
 
